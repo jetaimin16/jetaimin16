@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hello, I am Semin Lim
 
-<!--
-**jetaimin16/jetaimin16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+### 🛠 My skillset
+___
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![R](https://img.shields.io/badge/R-programming-blue)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+### 🏃‍♀️ My work experience
+___
+* teaching assistant for Problem Solving and Algorithm
